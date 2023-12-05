@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tsprock
-- 👀 I’m interested in cyber security, economics, history, philosophy, technology in general
-- 🌱 I’m currently learning Vue.js and TailwindCSS 
-- 💞️ I’m looking to collaborate on IaC and automation frameworks
+- 👋 Hi, I’m Thomas!
+- 👀 I’m interested in cyber security, economics, history, philosophy, technology in general.
+- 🌱 I’m currently learning Vue.js and TailwindCSS .
+- 💞️ I’m looking to collaborate on IaC and automation frameworks.
 - 📫 How to reach me: <thomas@sprock.solutions>
